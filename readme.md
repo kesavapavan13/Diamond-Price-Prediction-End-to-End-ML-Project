@@ -200,4 +200,4 @@ streamlit run app.py
 ## 👤 Author
 
 Kesavapavan Gadde
-Aspiring Machine Learning Engineer | Data Science Enthusiast
+ Aspiring Machine Learning Engineer | Data Science Enthusiast
